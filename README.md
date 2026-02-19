@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/myselfkshitiz">Kshitiz Kumar</a></h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/myselfkshitiz">Kshitiz</a></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Exploring+Android+Internals;Researching+System+Hardening;Learning+Low-level+Optimization;Experimenting+with+Userland+Security" />
